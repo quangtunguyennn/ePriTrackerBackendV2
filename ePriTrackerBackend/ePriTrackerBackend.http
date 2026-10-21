@@ -1,0 +1,6 @@
+@ePriTrackerBackend_HostAddress = http://localhost:5130
+
+GET {{ePriTrackerBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

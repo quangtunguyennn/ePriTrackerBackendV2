@@ -1,0 +1,11 @@
+2026/10/13-12:28:14.470 7214 Reusing MANIFEST C:\Users\Admin\source\repos\mobile course\Lab2\ePriTrackerBackend\ePriTrackerBackend\.shopee-chrome\Default\Local Storage\leveldb/MANIFEST-000001
+2026/10/13-12:28:14.475 7214 Recovering log #267
+2026/10/13-12:28:14.490 7214 Reusing old log C:\Users\Admin\source\repos\mobile course\Lab2\ePriTrackerBackend\ePriTrackerBackend\.shopee-chrome\Default\Local Storage\leveldb/000267.log 
+2026/10/13-12:30:22.990 255c Level-0 table #271: started
+2026/10/13-12:30:22.999 255c Level-0 table #271: 24797 bytes OK
+2026/10/13-12:30:23.002 255c Delete type=0 #267
+2026/10/13-12:32:22.984 255c Level-0 table #273: started
+2026/10/13-12:32:22.988 255c Level-0 table #273: 26200 bytes OK
+2026/10/13-12:32:22.989 255c Delete type=0 #270
+2026/10/13-12:35:13.986 7214 Level-0 table #275: started
+2026/10/13-12:35:13.996 7214 Level-0 table #275: 19533 bytes OK
